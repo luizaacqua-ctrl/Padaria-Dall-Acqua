@@ -70,7 +70,7 @@ blockquote {
 
 .card {
     flex: 1 1 250px;       /* cresce, encolhe, largura base 250px */
-    border: 1px solid #bd91b5;
+    border: 1px solid #ddbdcc;
     border-radius: 8px;
     padding: 12px;
     background-color: #FFFFFF;
